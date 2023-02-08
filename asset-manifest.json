@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://sienna0715.github.io/webtoon/static/css/main.4c453b42.css",
-    "main.js": "https://sienna0715.github.io/webtoon/static/js/main.cd3e7eb9.js",
+    "main.js": "https://sienna0715.github.io/webtoon/static/js/main.6c6e7bcb.js",
     "static/js/787.2c0e342c.chunk.js": "https://sienna0715.github.io/webtoon/static/js/787.2c0e342c.chunk.js",
     "index.html": "https://sienna0715.github.io/webtoon/index.html",
     "main.4c453b42.css.map": "https://sienna0715.github.io/webtoon/static/css/main.4c453b42.css.map",
-    "main.cd3e7eb9.js.map": "https://sienna0715.github.io/webtoon/static/js/main.cd3e7eb9.js.map",
+    "main.6c6e7bcb.js.map": "https://sienna0715.github.io/webtoon/static/js/main.6c6e7bcb.js.map",
     "787.2c0e342c.chunk.js.map": "https://sienna0715.github.io/webtoon/static/js/787.2c0e342c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c453b42.css",
-    "static/js/main.cd3e7eb9.js"
+    "static/js/main.6c6e7bcb.js"
   ]
 }
