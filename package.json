@@ -48,6 +48,5 @@
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1"
   },
-  "start_url": ".",
-  "homepage": "https://2realzoo.github.io/webtoon/"
+  "start_url": "."
 }
