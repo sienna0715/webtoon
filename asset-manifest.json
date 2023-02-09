@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://sienna0715.github.io/webtoon/static/css/main.4c453b42.css",
-    "main.js": "https://sienna0715.github.io/webtoon/static/js/main.6c6e7bcb.js",
-    "static/js/787.2c0e342c.chunk.js": "https://sienna0715.github.io/webtoon/static/js/787.2c0e342c.chunk.js",
-    "index.html": "https://sienna0715.github.io/webtoon/index.html",
-    "main.4c453b42.css.map": "https://sienna0715.github.io/webtoon/static/css/main.4c453b42.css.map",
-    "main.6c6e7bcb.js.map": "https://sienna0715.github.io/webtoon/static/js/main.6c6e7bcb.js.map",
-    "787.2c0e342c.chunk.js.map": "https://sienna0715.github.io/webtoon/static/js/787.2c0e342c.chunk.js.map"
+    "main.css": "https://2realzoo.github.io/webtoon/static/css/main.4c453b42.css",
+    "main.js": "https://2realzoo.github.io/webtoon/static/js/main.427c1138.js",
+    "static/js/787.2c0e342c.chunk.js": "https://2realzoo.github.io/webtoon/static/js/787.2c0e342c.chunk.js",
+    "index.html": "https://2realzoo.github.io/webtoon/index.html",
+    "main.4c453b42.css.map": "https://2realzoo.github.io/webtoon/static/css/main.4c453b42.css.map",
+    "main.427c1138.js.map": "https://2realzoo.github.io/webtoon/static/js/main.427c1138.js.map",
+    "787.2c0e342c.chunk.js.map": "https://2realzoo.github.io/webtoon/static/js/787.2c0e342c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c453b42.css",
-    "static/js/main.6c6e7bcb.js"
+    "static/js/main.427c1138.js"
   ]
 }
