@@ -41,10 +41,6 @@
 
 /* 4 */
 @media screen and (max-width: 768px) {
-  .container {
-    display: flex;
-    justify-content: center;
-  }
   .li {
     width: 230px;
     height: 310px;

@@ -1537,14 +1537,14 @@ export const webtoons = [
     url: 'https://comic.naver.com/webtoon/list?titleId=799267&weekday=sun',
     genre: '일상',
   },
-  {
-    id: 'sun19',
-    title: '소녀재판',
-    day: ['일'],
-    img: './img/sun19.jpeg',
-    url: 'https://comic.naver.com/webtoon/list?titleId=743838&weekday=sun',
-    genre: '드라마',
-  },
+  // {
+  //   id: 'sun19',
+  //   title: '소녀재판',
+  //   day: ['일'],
+  //   img: './img/sun19.jpeg',
+  //   url: 'https://comic.naver.com/webtoon/list?titleId=743838&weekday=sun',
+  //   genre: '드라마',
+  // },
   {
     id: 'sun20',
     title: '판사 이한영',

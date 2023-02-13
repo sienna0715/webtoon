@@ -34,7 +34,7 @@ function FilterBar() {
             dispatch(filterData(filterByGenre(DayContent, selectedGenre)));
         }
         else {
-             dispatch(filterData(filterByGenre(webtoons, selectedGenre)));
+            dispatch(filterData(filterByGenre(webtoons, selectedGenre)));
         }
     }
 
